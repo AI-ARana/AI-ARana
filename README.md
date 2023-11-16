@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DR Anurag Rana
+- 👋 Hi, I’m @AI-ARana (Dr Anurag Rana) PhD in Artificial Intelligence and Data Science.
 - 👀 I’m interested in Applied AI/ML, Quantum Computing, Generative AI and Prompt Engineering.
 - 💞️ I’m looking to collaborate on Post Doc Position
 - 📫 My email Id: anuragrana.anu@gmail.com
