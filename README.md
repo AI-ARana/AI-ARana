@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AI-ARana (Dr Anurag Rana)Post-Doctoral, PhD in Artificial Intelligence and Data Science.
+- 👋 Hi, I’m @AI-ARana (Anurag Rana)Post-Doctoral, PhD in Artificial Intelligence and Data Science.
 - 👀 My RnD areas are Applied AI/ML and  Quantum Computing in interdisciplinary domains.
 -  👀 I'm actively working in AGI,Generative AI and Prompt Engineering.
 - 💞️ I’m working as Post-Doctoral Fellow and Associate Professor.
