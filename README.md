@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AI-ARana (Anurag Rana)Post-Doctoral, PhD in Artificial Intelligence and Data Science.
+- 👋 Hi, I’m @AI-ARana (Anurag Rana)Post-Doctoral, PhD in Artificial Intelligence.
 - 👀 My RnD areas are Applied AI/ML and  Quantum Computing in interdisciplinary domains.
--  👀 I'm actively working in AGI,Generative AI and Prompt Engineering.
+-  👀 I'm actively working in AGI, Generative AI and Prompt Engineering.
 - 💞️ I’m working as Post-Doctoral Fellow and Associate Professor.
 - 📫 My email Id: anuragrana.anu@gmail.com, anuragrana.anu@outlook.com
 -     Contact No. : +919418050029
